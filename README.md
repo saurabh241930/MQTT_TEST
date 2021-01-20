@@ -19,4 +19,4 @@ pip3 install paho-mqtt
 
 ### Feedback or data sent to the topics can be seen on terminal by running `python3 test_topics_feedback.py`
 
-
+<img src="Screenshot from 2021-01-20 22-02-32.png"/>
